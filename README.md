@@ -66,7 +66,7 @@ I am a Robotics and Automation enthusiast from India. I have an academic backgro
 
 ## 📬 Contact
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [rohitmardane@gmail.com](mailto:rohitmardane@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/rohitmardane](https://linkedin.com/in/rohitmardane)
 - 💻 GitHub: [github.com/rohitmardane](https://github.com/rohitmardane)
 
