@@ -5,9 +5,9 @@ title: Rohit Mardane – Robotics Enthusiast
 
 # 👋 Hello, I'm **Rohit Mardane**
 
-Welcome to my personal website!
+Welcome to my website!
 
-I am a Robotics and Automation enthusiast from India, with an academic background in **Mechanical Engineering** and **M.Tech in CAD/CAM**. With over 11 years of professional experience in **Product Development**, **Technical Documentation**, and **Engineering Design**, I am now pursuing opportunities in **advanced robotics**, particularly in **bio-inspired mobility, prosthetics, and AI-based systems**.
+I am a Robotics and Automation enthusiast from India. I have an academic background in Mechanical Engineering and an M. Tech in CAD/CAM. With over 11 years of professional experience in Product Development, Technical Documentation, and Engineering Design, I am now pursuing opportunities in advanced robotics, particularly in bio-inspired mobility, prosthetics, and AI-based systems.
 
 ---
 
