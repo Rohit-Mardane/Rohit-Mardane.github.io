@@ -51,9 +51,9 @@ I am a Robotics and Automation enthusiast from India. I have an academic backgro
 
 | Project | Description |
 |--------|-------------|
-| **Exoskeleton CAD Model** | Designed a lower-limb exoskeleton prototype for assisted walking using SolidWorks |
-| **Line-Follower Robot** | Built an Arduino-based mobile robot using IR sensors for object tracking |
-| **ML-based Classification** | Implemented an image classification pipeline using TensorFlow and Python |
+| **Automatic Indexing for Drilling Machine** | Designed an indexing mechanism for any small drilling machine turning it into an automatic machine using Creo Parametric |
+| **Cell Layout for Industrial Robot** | A cell layout for pick and place application fanuc robot|
+| **Cell Layout for Industrial Robot** | A cell layout for welding application fanuc robot |
 
 ---
 
